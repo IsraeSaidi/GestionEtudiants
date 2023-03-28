@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\bin\Debug\maBase.mdf
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\bin\Debug\maBase_log.ldf
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\bin\Debug\GestionEtudiants.exe.config
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\bin\Debug\GestionEtudiants.exe
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\bin\Debug\GestionEtudiants.pdb
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.Form1.resources
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.Form2.resources
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.Form3.resources
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.Properties.Resources.resources
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.exe
+C:\Users\HP\Source\Repos\GestionEtudiantsV\GestionEtudiants\obj\Debug\GestionEtudiants.pdb
